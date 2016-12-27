@@ -1,0 +1,46 @@
+D:\LTCSDL\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.exe.config
+D:\LTCSDL\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.exe
+D:\LTCSDL\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.pdb
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csprojResolveAssemblyReference.cache
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmDangNhap.resources
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmMain.resources
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.Properties.Resources.resources
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csproj.GenerateResource.Cache
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.exe
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.pdb
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmDMK.resources
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmThemDV.resources
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmThemLoaiDV.resources
+D:\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmThemNV.resources
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.exe.config
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.exe
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.pdb
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csprojResolveAssemblyReference.cache
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmDangNhap.resources
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmKhachhang.resources
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmMain.resources
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmThemLoaiDV.resources
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmThemNV.resources
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.Properties.Resources.resources
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csproj.GenerateResource.Cache
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.exe
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.pdb
+C:\Users\Trang\Desktop\LTCSDL\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csproj.ResolveComReference.cache
+C:\Users\Trang\Desktop\New folder\LTCSDL1\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.exe.config
+C:\Users\Trang\Desktop\New folder\LTCSDL1\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csproj.ResolveComReference.cache
+C:\Users\Trang\Desktop\New folder\LTCSDL1\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.exe
+C:\Users\Trang\Desktop\New folder\LTCSDL1\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.pdb
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.exe.config
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csproj.ResolveComReference.cache
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.exe
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.pdb
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.exe
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\bin\Debug\QuanLySpa.pdb
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csprojResolveAssemblyReference.cache
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmDangNhap.resources
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmKhachhang.resources
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmMain.resources
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmThemLoaiDV.resources
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.frmThemNV.resources
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.Properties.Resources.resources
+C:\Users\Trang\Desktop\3\LTCSDL_HuyenDuong\QuanLySpa\QuanLySpa\obj\Debug\QuanLySpa.csproj.GenerateResource.Cache
